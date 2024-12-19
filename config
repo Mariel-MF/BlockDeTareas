@@ -1,0 +1,15 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[user]
+	name = HP OMEN I7
+	email = HP OMEN I7@UMSS-FCE
+[remote "origin"]
+	url = https://rubendar4@github.com/rubendar4/LoginBingo.git
+	url = https://rubendar4@github.com/rubendar4/BingoLogin.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
